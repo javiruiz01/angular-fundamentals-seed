@@ -8,10 +8,9 @@
       "baggage": "none"
     },
     {
-      "id": 2,
       "fullname": "Rose",
+      "id": 2,
       "checkedIn": false,
-      "checkInDate": null,
       "baggage": ""
     },
     {
